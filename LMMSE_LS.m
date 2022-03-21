@@ -1,7 +1,7 @@
 echo off; 
 clear all; 
 close all; 
-clc; 
+
  
 fprintf('OFDM基于块状导频的信道估计算法仿真\n正在绘图，请稍后……\n'); 
 format long 

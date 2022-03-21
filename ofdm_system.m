@@ -1,5 +1,5 @@
 clear all
-clc
+
 format long
 %本次仿真载频为2GHz，带宽1MHz，子载波数128个，cp为16
 %子载波间隔为7.8125kHz
